@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Quizlash-App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+724c4eb1e928f4538510f58d225eddd6414fa9a7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b67c8b8dcdc4ffe34a61f7a2c7c675900683fa55")]
 [assembly: System.Reflection.AssemblyProductAttribute("Quizlash-App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Quizlash-App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

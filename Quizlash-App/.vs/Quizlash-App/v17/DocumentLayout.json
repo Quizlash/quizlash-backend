@@ -1,7 +1,64 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Project\\quizlash-backend\\Quizlash-App\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42B4C2A3-651B-4ACF-B4B6-41D6DFECC63D}|Quizlash-App.csproj|d:\\project\\quizlash-backend\\quizlash-app\\users\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B4C2A3-651B-4ACF-B4B6-41D6DFECC63D}|Quizlash-App.csproj|solutionrelative:users\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B4C2A3-651B-4ACF-B4B6-41D6DFECC63D}|Quizlash-App.csproj|d:\\project\\quizlash-backend\\quizlash-app\\users\\post\\payload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B4C2A3-651B-4ACF-B4B6-41D6DFECC63D}|Quizlash-App.csproj|solutionrelative:users\\post\\payload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B4C2A3-651B-4ACF-B4B6-41D6DFECC63D}|Quizlash-App.csproj|d:\\project\\quizlash-backend\\quizlash-app\\users\\put\\payload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B4C2A3-651B-4ACF-B4B6-41D6DFECC63D}|Quizlash-App.csproj|solutionrelative:users\\put\\payload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B4C2A3-651B-4ACF-B4B6-41D6DFECC63D}|Quizlash-App.csproj|d:\\project\\quizlash-backend\\quizlash-app\\users\\get\\parameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B4C2A3-651B-4ACF-B4B6-41D6DFECC63D}|Quizlash-App.csproj|solutionrelative:users\\get\\parameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B4C2A3-651B-4ACF-B4B6-41D6DFECC63D}|Quizlash-App.csproj|d:\\project\\quizlash-backend\\quizlash-app\\users\\delete\\parameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B4C2A3-651B-4ACF-B4B6-41D6DFECC63D}|Quizlash-App.csproj|solutionrelative:users\\delete\\parameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project\\quizlash-backend\\Quizlash-App\\Database\\PostgreSql\\Identity\\Migrations\\20251110032230_First.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Database\\PostgreSql\\Identity\\Migrations\\20251110032230_First.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B4C2A3-651B-4ACF-B4B6-41D6DFECC63D}|Quizlash-App.csproj|d:\\project\\quizlash-backend\\quizlash-app\\databases\\postgresql\\identity\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B4C2A3-651B-4ACF-B4B6-41D6DFECC63D}|Quizlash-App.csproj|solutionrelative:databases\\postgresql\\identity\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B4C2A3-651B-4ACF-B4B6-41D6DFECC63D}|Quizlash-App.csproj|d:\\project\\quizlash-backend\\quizlash-app\\databases\\postgresql\\identity\\identitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B4C2A3-651B-4ACF-B4B6-41D6DFECC63D}|Quizlash-App.csproj|solutionrelative:databases\\postgresql\\identity\\identitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B4C2A3-651B-4ACF-B4B6-41D6DFECC63D}|Quizlash-App.csproj|d:\\project\\quizlash-backend\\quizlash-app\\databases\\postgresql\\app\\quizlashcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B4C2A3-651B-4ACF-B4B6-41D6DFECC63D}|Quizlash-App.csproj|solutionrelative:databases\\postgresql\\app\\quizlashcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B4C2A3-651B-4ACF-B4B6-41D6DFECC63D}|Quizlash-App.csproj|d:\\project\\quizlash-backend\\quizlash-app\\databases\\postgresql\\app\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B4C2A3-651B-4ACF-B4B6-41D6DFECC63D}|Quizlash-App.csproj|solutionrelative:databases\\postgresql\\app\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B4C2A3-651B-4ACF-B4B6-41D6DFECC63D}|Quizlash-App.csproj|d:\\project\\quizlash-backend\\quizlash-app\\databases\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B4C2A3-651B-4ACF-B4B6-41D6DFECC63D}|Quizlash-App.csproj|solutionrelative:databases\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B4C2A3-651B-4ACF-B4B6-41D6DFECC63D}|Quizlash-App.csproj|d:\\project\\quizlash-backend\\quizlash-app\\quizlash-app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{42B4C2A3-651B-4ACF-B4B6-41D6DFECC63D}|Quizlash-App.csproj|solutionrelative:quizlash-app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B4C2A3-651B-4ACF-B4B6-41D6DFECC63D}|Quizlash-App.csproj|d:\\project\\quizlash-backend\\quizlash-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B4C2A3-651B-4ACF-B4B6-41D6DFECC63D}|Quizlash-App.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42B4C2A3-651B-4ACF-B4B6-41D6DFECC63D}|Quizlash-App.csproj|d:\\project\\quizlash-backend\\quizlash-app\\databases\\postgresql\\app\\tables\\user\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42B4C2A3-651B-4ACF-B4B6-41D6DFECC63D}|Quizlash-App.csproj|solutionrelative:databases\\postgresql\\app\\tables\\user\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +66,197 @@
       "DocumentGroups": [
         {
           "DockedWidth": 152,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Payload.cs",
+              "DocumentMoniker": "D:\\Project\\quizlash-backend\\Quizlash-App\\Users\\PUT\\Payload.cs",
+              "RelativeDocumentMoniker": "Users\\PUT\\Payload.cs",
+              "ToolTip": "D:\\Project\\quizlash-backend\\Quizlash-App\\Users\\PUT\\Payload.cs",
+              "RelativeToolTip": "Users\\PUT\\Payload.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T03:26:17.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Payload.cs",
+              "DocumentMoniker": "D:\\Project\\quizlash-backend\\Quizlash-App\\Users\\POST\\Payload.cs",
+              "RelativeDocumentMoniker": "Users\\POST\\Payload.cs",
+              "ToolTip": "D:\\Project\\quizlash-backend\\Quizlash-App\\Users\\POST\\Payload.cs",
+              "RelativeToolTip": "Users\\POST\\Payload.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAywCIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T03:26:10.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Parameters.cs",
+              "DocumentMoniker": "D:\\Project\\quizlash-backend\\Quizlash-App\\Users\\GET\\Parameters.cs",
+              "RelativeDocumentMoniker": "Users\\GET\\Parameters.cs",
+              "ToolTip": "D:\\Project\\quizlash-backend\\Quizlash-App\\Users\\GET\\Parameters.cs",
+              "RelativeToolTip": "Users\\GET\\Parameters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T03:26:03.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Parameters.cs",
+              "DocumentMoniker": "D:\\Project\\quizlash-backend\\Quizlash-App\\Users\\DELETE\\Parameters.cs",
+              "RelativeDocumentMoniker": "Users\\DELETE\\Parameters.cs",
+              "ToolTip": "D:\\Project\\quizlash-backend\\Quizlash-App\\Users\\DELETE\\Parameters.cs",
+              "RelativeToolTip": "Users\\DELETE\\Parameters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T03:25:54.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20251110032230_First.cs",
+              "DocumentMoniker": "D:\\Project\\quizlash-backend\\Quizlash-App\\Database\\PostgreSql\\Identity\\Migrations\\20251110032230_First.cs",
+              "RelativeDocumentMoniker": "Database\\PostgreSql\\Identity\\Migrations\\20251110032230_First.cs",
+              "ToolTip": "D:\\Project\\quizlash-backend\\Quizlash-App\\Database\\PostgreSql\\Identity\\Migrations\\20251110032230_First.cs",
+              "RelativeToolTip": "Database\\PostgreSql\\Identity\\Migrations\\20251110032230_First.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T03:22:30.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Quizlash-App",
+              "DocumentMoniker": "D:\\Project\\quizlash-backend\\Quizlash-App\\Quizlash-App.csproj",
+              "RelativeDocumentMoniker": "Quizlash-App.csproj",
+              "ToolTip": "D:\\Project\\quizlash-backend\\Quizlash-App\\Quizlash-App.csproj*",
+              "RelativeToolTip": "Quizlash-App.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-10T03:13:48.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "D:\\Project\\quizlash-backend\\Quizlash-App\\Databases\\PostgreSql\\Identity\\Extensions.cs",
+              "RelativeDocumentMoniker": "Databases\\PostgreSql\\Identity\\Extensions.cs",
+              "ToolTip": "D:\\Project\\quizlash-backend\\Quizlash-App\\Databases\\PostgreSql\\Identity\\Extensions.cs",
+              "RelativeToolTip": "Databases\\PostgreSql\\Identity\\Extensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T03:11:53.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IdentityContext.cs",
+              "DocumentMoniker": "D:\\Project\\quizlash-backend\\Quizlash-App\\Databases\\PostgreSql\\Identity\\IdentityContext.cs",
+              "RelativeDocumentMoniker": "Databases\\PostgreSql\\Identity\\IdentityContext.cs",
+              "ToolTip": "D:\\Project\\quizlash-backend\\Quizlash-App\\Databases\\PostgreSql\\Identity\\IdentityContext.cs",
+              "RelativeToolTip": "Databases\\PostgreSql\\Identity\\IdentityContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T03:11:36.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "D:\\Project\\quizlash-backend\\Quizlash-App\\Users\\Controller.cs",
+              "RelativeDocumentMoniker": "Users\\Controller.cs",
+              "ToolTip": "D:\\Project\\quizlash-backend\\Quizlash-App\\Users\\Controller.cs",
+              "RelativeToolTip": "Users\\Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T03:10:30.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "D:\\Project\\quizlash-backend\\Quizlash-App\\Databases\\Extensions.cs",
+              "RelativeDocumentMoniker": "Databases\\Extensions.cs",
+              "ToolTip": "D:\\Project\\quizlash-backend\\Quizlash-App\\Databases\\Extensions.cs",
+              "RelativeToolTip": "Databases\\Extensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T03:07:43.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project\\quizlash-backend\\Quizlash-App\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Project\\quizlash-backend\\Quizlash-App\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T02:49:51.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Table.cs",
+              "DocumentMoniker": "D:\\Project\\quizlash-backend\\Quizlash-App\\Databases\\PostgreSql\\App\\Tables\\User\\Table.cs",
+              "RelativeDocumentMoniker": "Databases\\PostgreSql\\App\\Tables\\User\\Table.cs",
+              "ToolTip": "D:\\Project\\quizlash-backend\\Quizlash-App\\Databases\\PostgreSql\\App\\Tables\\User\\Table.cs",
+              "RelativeToolTip": "Databases\\PostgreSql\\App\\Tables\\User\\Table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T02:19:23.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "D:\\Project\\quizlash-backend\\Quizlash-App\\Databases\\PostgreSql\\App\\Extensions.cs",
+              "RelativeDocumentMoniker": "Databases\\PostgreSql\\App\\Extensions.cs",
+              "ToolTip": "D:\\Project\\quizlash-backend\\Quizlash-App\\Databases\\PostgreSql\\App\\Extensions.cs",
+              "RelativeToolTip": "Databases\\PostgreSql\\App\\Extensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T02:13:48.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QuizlashContext.cs",
+              "DocumentMoniker": "D:\\Project\\quizlash-backend\\Quizlash-App\\Databases\\PostgreSql\\App\\QuizlashContext.cs",
+              "RelativeDocumentMoniker": "Databases\\PostgreSql\\App\\QuizlashContext.cs",
+              "ToolTip": "D:\\Project\\quizlash-backend\\Quizlash-App\\Databases\\PostgreSql\\App\\QuizlashContext.cs",
+              "RelativeToolTip": "Databases\\PostgreSql\\App\\QuizlashContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T04:12:36.156Z",
+              "EditorCaption": ""
             }
           ]
         }

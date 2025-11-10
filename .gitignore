@@ -1,0 +1,60 @@
+## Ignore Visual Studio temporary files, build results, and user-specific files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Ignore build results
+bin/
+obj/
+out/
+[Bb]uild/
+[Bb]uild[Ll]og.*
+
+## Ignore NuGet packages
+*.nupkg
+packages/
+*.snupkg
+
+## Ignore Rider IDE files
+.idea/
+
+## Ignore ASP.NET Core secrets
+secrets.json
+
+## Ignore Entity Framework migration snapshots
+Migrations/
+
+## Ignore logs and database
+*.log
+*.db
+*.sqlite
+
+## Ignore publish output
+publish/
+wwwroot/
+
+## Ignore node modules (if using frontend)
+node_modules/
+
+## Ignore environment files
+.env
+.env.*
+
+## Ignore generated files
+Generated/
+*.generated.cs
+
+## Ignore coverage reports
+coverage/
+*.lcov
+
+## Ignore Docker artifacts
+Dockerfile
+docker-compose.yml
+*.pid
+
+## Ignore OS-specific files
+Thumbs.db
+.DS_Store

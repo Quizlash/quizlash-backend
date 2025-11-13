@@ -93,7 +93,10 @@ public class Controller : ControllerBase
     #region Token Generation
     private string GenerateToken(string email)
     {
-        var key = Encoding.UTF8.GetBytes(_configuration["JWT:Key"]!);
+        var keyString = _configuration["JWT:Key"];
+        if (string.IsNullOrEmpty(keyString)) throw new InvalidOperationException("JWT key is not configured.");
+
+        var key = Encoding.UTF8.GetBytes(keyString);
         var issuer = _configuration["JWT:Issuer"];
         var audience = _configuration["JWT:Audience"];
 
@@ -115,7 +118,7 @@ public class Controller : ControllerBase
             issuer: issuer,
             audience: audience,
             claims: claims,
-            expires: DateTime.UtcNow.AddHours(1),
+            expires: DateTime.UtcNow.AddMinutes(1),
             signingCredentials: credentials
         );
 

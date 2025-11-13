@@ -14,14 +14,14 @@ namespace Quizlash_App.Authentication;
 
 [Route("api/authentication")]
 [ApiController]
-public class Controller : ControllerBase
+public class AuthenticationController : ControllerBase
 {
     private readonly UserManager<IdentityUser> _userManager;
     private readonly SignInManager<IdentityUser> _signInManager;
     private readonly IConfiguration _configuration;
     private readonly Databases.PostgreSql.Identity.IdentityContext _context;
     private readonly IMessageBus _messageBus;
-    public Controller(UserManager<IdentityUser> userManager, 
+    public AuthenticationController(UserManager<IdentityUser> userManager, 
         SignInManager<IdentityUser> signInManager,
         IConfiguration configuration,
         IdentityContext context,
@@ -44,7 +44,7 @@ public class Controller : ControllerBase
         return Ok(users);
     }
     [HttpPost("login")]
-    public async Task<IActionResult> Login([FromBody] Login.Payload payload)
+    public async Task<IActionResult> Login([FromBody] Login.LoginPayload payload)
     {
         var user = await _userManager.FindByEmailAsync(payload.Email);
         if (user == null)
@@ -59,15 +59,11 @@ public class Controller : ControllerBase
         }
 
         var token = GenerateToken(payload.Email);
-        var response = new
-        {
-            Token = token,
-        };
-        return CreatedAtAction(nameof(Get), response);
+        return CreatedAtAction(nameof(Get), token);
     }
 
     [HttpPost("register")]
-    public async Task<IActionResult> Register([FromBody] Register.Payload payload)
+    public async Task<IActionResult> Register([FromBody] Register.RegisterPayload payload)
     {
         var existingUser = await _userManager.FindByEmailAsync(payload.Email);
         if (existingUser != null)

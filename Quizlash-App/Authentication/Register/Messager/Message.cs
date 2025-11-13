@@ -2,5 +2,5 @@
 
 public record Message(
     Guid Id,
-    Payload Payload
+    RegisterPayload Payload
     );

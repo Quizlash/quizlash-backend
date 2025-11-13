@@ -2,7 +2,7 @@
 
 namespace Quizlash_App.Authentication.Register;
 
-public class Payload
+public class RegisterPayload
 {
     [Required]
     [MaxLength(50)]

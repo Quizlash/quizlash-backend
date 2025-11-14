@@ -42,6 +42,16 @@ builder.Services.AddDatabases(builder.Configuration);
 builder .Services.AddAuthentication(builder.Configuration);
 builder.Services.AddWolverines(builder.Configuration);
 
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAll", policy =>
+    {
+        policy.AllowAnyOrigin()
+              .AllowAnyHeader()
+              .AllowAnyMethod();
+    });
+});
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -56,6 +66,8 @@ if (app.Environment.IsDevelopment())
     });
 
 }
+
+app.UseCors("AllowAll");
 
 app.UseHttpsRedirection();
 
